@@ -6,7 +6,7 @@ A game produced at APU by Tim Samoff.
 
 ## Description
 
-Many games present players with typical *key & lock* puzzles. But what if you were the key?
+Adventure games often present the player with locked doors in which the player must find a key to enter. In *You Are the Key*, the player is the key!
 
 ## Instructions
 
